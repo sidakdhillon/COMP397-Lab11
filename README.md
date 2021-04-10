@@ -1,3 +1,3 @@
-# COMP397-W2021-Lesson11a
+# COMP397-W2021-Lesson10a
 
-Demo project for Week 11
+Demo project for Week 10
